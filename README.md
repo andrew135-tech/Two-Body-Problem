@@ -4,4 +4,4 @@ If you find this interesting or want more of similar content I have a new youtub
 https://www.youtube.com/@Gilbertsonium
 I have an old video up right now with a less improved version of this program 
 https://www.youtube.com/watch?v=eoL4uXcwl9k
-Though I hope to add another video soon
+Though I hope to add another video soon. I have included some basic working values in the code but experment and get new working ones. If you find one comment on my video and tell me about it.
